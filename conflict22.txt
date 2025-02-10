@@ -3,3 +3,4 @@ Change in branch1
 =======
 Change in branch2
 >>>>>>> branch2
+make some changes to remove the conflicy
